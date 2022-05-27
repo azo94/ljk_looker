@@ -9,7 +9,7 @@ view: test_pdt{
       count(0),
       gender,
       usertype
-    FROM `jinkyu-cloocus.looker_test.test1`
+    FROM `jinkyu-cloocus.looker_test.test3`
     group by gender, usertype
     ;;
   }
